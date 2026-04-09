@@ -7,6 +7,7 @@ Library analytics project using IBM Cognos Analytics including reports, dashboar
 This project demonstrates library data analysis focusing on book circulation, overdue tracking, member behavior, and branch performance.
 
 📊 Modules Covered
+
 🔹 Q1 – Reports
 
 Book Circulation Report (Genre & Branch-wise)

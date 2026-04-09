@@ -92,3 +92,15 @@ Promote digital library usage
 Reduce high delay penalties
 
 Focus on high-demand genres
+
+✅ Tools Used
+
+IBM Cognos Analytics
+
+Excel Dataset
+
+📸 Screenshots
+
+All outputs are available in the  folder.
+
+Done by Kiruba Sherlin A

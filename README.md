@@ -101,6 +101,7 @@ Excel Dataset
 
 📸 Screenshots
 
-All outputs are available in the  folder.
+All outputs are available in the case study output folder.
+
 
 Done by Kiruba Sherlin A
